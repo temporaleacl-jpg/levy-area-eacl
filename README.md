@@ -1,7 +1,7 @@
 # Lévy-Area Trajectory Archetypes across Dialogue Domains
 
 Code for the paper: "Not Where, But How: Lévy-Area Trajectory
-Archetypes across Human Dialogue" (Submitted to EACL ARR August 2026)
+Archetypes across Dialogue Domains" (Submitted to EACL ARR August 2026)
 
 ## Overview
 
