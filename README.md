@@ -40,7 +40,7 @@ the sign ambiguity of session-wise PCA (Appendix).
 │   │                              confirmatory results)
 │   └── exploratory_clustering.py — Exploratory signed clustering
 │                                    (k selected by silhouette)
-├── figures/
+├── figure/
 │   ├── fig1_concept.py         — Figure 1: Lévy-area geometry and
 │   │                              the sign-invariant orientation
 │   │                              relation
@@ -87,9 +87,9 @@ python src/orientation_tests.py       # pairing permutation + matched pseudo-anc
                                        # (Tables: pairing, hero)
 python src/exploratory_clustering.py  # exploratory clustering, k selected by
                                        # silhouette (Appendix Tables B1, B2)
-python figures/fig1_concept.py
-python figures/fig2_hero_effect.py
-python figures/appendix_dendrogram.py
+python figure/fig1_concept.py
+python figure/fig2_hero_effect.py
+python figure/appendix_dendrogram.py
 ```
 
 Each script reloads its inputs from disk rather than relying on
